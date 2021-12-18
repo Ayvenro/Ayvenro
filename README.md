@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FantomAda
 - 👀 I’m interested in C#/Unity
-- 🌱 I’m currently learning Complede 2D Game Unity course
+- 🌱 I’m currently learning Complete C# Unity Developer 2D course
 
 <!---
 FantomAda/FantomAda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
